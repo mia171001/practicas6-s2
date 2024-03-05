@@ -1,0 +1,43 @@
+.Logo-Header {
+  display: flex;
+}
+
+.Logo-Text {
+  margin-left: 10px;
+}
+
+.Logo-Header p {
+  font-size: 24px;
+  color: #1364ff;
+  font-weight: 600;
+  font-family: "Inter", sans-serif;
+}
+
+.Logo-Header span {
+  color: Gray;
+  font-size: 14px;
+}
+
+.Navigation-Item a {
+  color: #0d0d0d;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+}
+
+.Header-button {
+  background-color: #1364ff;
+  color: white;
+  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  padding: 12px 22px;
+  border: #1364ff;
+  border-radius: 100px;
+}
+
+.Navigation-Item {
+  display: inline-block;
+  margin: 0 10px;
+}
